@@ -1,0 +1,8 @@
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\bin\Release\setting.config
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\bin\Release\ServerBackup.exe
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\bin\Release\ServerBackup.pdb
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\bin\Release\SharpZipLib.dll
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\obj\x86\Release\ServerBackup.exe
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\obj\x86\Release\ServerBackup.pdb
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\bin\Release\ServerBackup.exe.config
+C:\Users\andy\Downloads\ServerBackup\ServerBackup\obj\x86\Release\ServerBackup.csprojResolveAssemblyReference.cache
