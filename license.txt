@@ -1,7 +1,7 @@
 Program Name: ServerBackup (for SQL server and Website Files)
 Version: 1.0.0 
 Author: Andy Suwandy
-https://bytutorial.com/apps-and-software/sql-server-and-website-backup-solution
+http://bytutorial.com/apps-and-software/sql-server-and-website-backup-solution
 
 Copyright (c) 2016 Bytutorial.com
 
